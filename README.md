@@ -1,3 +1,3 @@
 # VertexExampleCodes
 
-Using kubeflow to train classification model (AutoML in this example) and evaluate model before deployment using a threshold
+AutoMLpipeline: Using kubeflow to train model (classification in this case) and evaluate model before deployment using a threshold
